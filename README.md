@@ -6,7 +6,7 @@ This interactive dashboard visualizes customer support ticket data to uncover ke
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](./channel_ticket_distribution.png)
+![Dashboard Preview](CUSTOMERS_SUPPORT_TICKET_ANALYSIS.png)
 
 
 ---
